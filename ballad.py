@@ -2,7 +2,7 @@ import sys
 
 import oisin
 
-filename = "input/alices.txt"
+filename = "input/hpbook1.txt"
 try:
     filename = sys.argv[1]
 except IndexError:

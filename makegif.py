@@ -2,9 +2,9 @@ import sys
 
 import oisin
 
-filename = "input/alices.txt"
+filename = "input/hpbook1.txt"
 nlines = 100
-output = "output/test.gif"
+output = "output/generatedpoem.gif"
 try:
     filename = sys.argv[1]
     nlines = int(sys.argv[2])
