@@ -8,15 +8,17 @@ Samantha Conde and Alison Crosby
 ## Example Output Code
 Here's an example of two stanzas generated from the Wave Function Collapse algorithm (and with a text file of Harry Potter Book 1)
 
-*Sentences 201-300: stanza 2
-He never have. You flatter me
-Said Dumbledore. And I don t
-Suppose you re the only one
-You know who. Harry Potter come
-And live here. All this you know who.
-You can t. It s it s true.
-That s not all. Of all the way.
-I ve been watching them all day.*
+*
+> Sentences 201-300: stanza 2
+> He never have. You flatter me
+> Said Dumbledore. And I don t
+> Suppose you re the only one
+> You know who. Harry Potter come
+> And live here. All this you know who.
+> You can t. It s it s true.
+> That s not all. Of all the way.
+> I ve been watching them all day.
+*
 
 *Sentences 301-450: stanza 3
 I ve got him sir. It had been
