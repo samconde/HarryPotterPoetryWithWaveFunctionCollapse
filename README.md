@@ -2,11 +2,11 @@
 Generating Harry Potter poetry using the Wave function collapse algorithm. This project was adapted from mewo2's oisin repo (https://github.com/mewo2/oisin)
 
 
-# Group Members
+## Group Members
 Samantha Conde and Alison Crosby
 
-# Example Output Code
-Here's an example of two stanzas generated from Wave Function Collapse algorithm (with Harry Potter Book 1)
+## Example Output Code
+Here's an example of two stanzas generated from the Wave Function Collapse algorithm (and with a text file of Harry Potter Book 1)
 
 *Sentences 201-300: stanza 2
 He never have. You flatter me
@@ -28,10 +28,13 @@ When he was gone. What did you get
 That motorcycle. Comb your hair.
 Yet Harry knew he. Is that where.*
 
-# Instructions on how to run code
+## Instructions on how to run code
+Create a text file of the desired text you wish to generate poems.
+
 Pull github repo and ensure you have python 3 installed.
 
 Run on terminal (perferably with ananconda with a python 3 environment):
+
 Install two python libraries: 
 ```sh
 pip install pronouncing
@@ -49,7 +52,7 @@ python makegif.py
 ```
 
 
-# Rules/Constraints used
+## Rules/Constraints used
 There are 4 changes you can make to ballad.py
 - filename (change the path of the text file you want to use to generate poems)
 - meter (used to change the iambic pentameter by metrical feet and rhythm)
@@ -64,7 +67,7 @@ meter=oisin.iambic(4, 'aabbccdd'),
     order=3
 ```
 
-# Process for creating output
+## Process for creating output
 - See intructions for how to run code
 	- ballad.py generates poems in the terminal
 	- makegif.py generates a gif of the poem generation in the output folder
